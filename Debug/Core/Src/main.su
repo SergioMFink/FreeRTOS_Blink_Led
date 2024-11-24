@@ -1,0 +1,8 @@
+../Core/Src/main.c:75:5:main	160	static
+../Core/Src/main.c:167:6:SystemClock_Config	72	static
+../Core/Src/main.c:207:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:249:6:StartDefaultTask	16	static
+../Core/Src/main.c:268:6:LED_Task	16	static
+../Core/Src/main.c:303:6:Button_Task	24	static
+../Core/Src/main.c:327:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:344:6:Error_Handler	4	static,ignoring_inline_asm
